@@ -1,0 +1,24 @@
+{
+  "name": "bitbucket-nodeclient",
+  "version": "1.0.0",
+  "description": "Node js client for bitbucket cloud rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamathb/bitbucket-nodeclient.git"
+  },
+  "keywords": [
+    "bitbucket-nodeclient",
+    "bitbucket-client",
+    "bitbucket-cloud"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chamathb/bitbucket-nodeclient/issues"
+  },
+  "homepage": "https://github.com/chamathb/bitbucket-nodeclient#readme"
+}
